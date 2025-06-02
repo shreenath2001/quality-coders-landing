@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quality-coders-landing/static/css/main.e6c13ad2.css",
+    "main.js": "/quality-coders-landing/static/js/main.c5187cc9.js",
+    "static/js/453.c7b04bf6.chunk.js": "/quality-coders-landing/static/js/453.c7b04bf6.chunk.js",
+    "service-worker.js": "/quality-coders-landing/service-worker.js",
+    "index.html": "/quality-coders-landing/index.html",
+    "main.e6c13ad2.css.map": "/quality-coders-landing/static/css/main.e6c13ad2.css.map",
+    "main.c5187cc9.js.map": "/quality-coders-landing/static/js/main.c5187cc9.js.map",
+    "453.c7b04bf6.chunk.js.map": "/quality-coders-landing/static/js/453.c7b04bf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c5187cc9.js"
+  ]
+}
